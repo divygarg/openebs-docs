@@ -849,6 +849,10 @@
       "x-displayName": "Snapshots"
     }
   ],
+  "externalDocs": {
+    "description": "Back To OpenEBS Documentation",
+    "url": "https://docs.openebs.io"
+  },
   "x-meta-array": [
     "value1",
     "value2"
